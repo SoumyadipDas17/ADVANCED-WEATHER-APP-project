@@ -72,7 +72,7 @@ except EOFError :
     pass
 f.seek(0)
 while True :
-    a="|1.CURRENT WEATHER REPORT\t|2.SEARCH HISTORY\t|3.CLEAR SEARCH HISTORY\t|4.EXIT\t|"
+    a="|1.CURRENT WEATHER REPORT\t|2.SEARCH HISTORY\t|3.DELETE SEARCH HISTORY\t|4.EXIT\t|"
     b=len(a)+15
     print("\n")
     print("_"*b,)
