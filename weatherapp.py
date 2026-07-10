@@ -73,7 +73,7 @@ except EOFError :
 f.seek(0)
 while True :
     a="|1.CURRENT WEATHER REPORT\t|2.SEARCH HISTORY\t|3.DELETE SEARCH HISTORY\t|4.EXIT\t|"
-    b=len(a)+15
+    b=len(a)+25
     print("\n")
     print("_"*b,)
     print("MAIN MENU:-")
