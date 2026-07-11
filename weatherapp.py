@@ -95,7 +95,7 @@ while True :
     elif a==3 :
         choice=int(input("1.DELETE PARTICULAR SEARCH(ES) FROM SEARCH HISTORY\n2.DELETE ENTIRE SEARCH HISTORY\nENTER YOUR CHOICE (1/2):"))
         if choice ==2 :
-            c2=input("DO U WANT YOUR ENTIRE SEARCH HISTORY TO BE DELETED? PRESS 'Y' IF SO...").upper()
+            c2=input("DO YOU WANT YOUR ENTIRE SEARCH HISTORY TO BE DELETED? PRESS 'Y' IF SO...").upper()
             if c2=='Y':
                 f=open("weather report","wb")
                 f.close()
