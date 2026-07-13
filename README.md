@@ -29,7 +29,33 @@ Enter the integer 2 in order to use the SEARCH HISTORY of the MAIN MENU. You wil
 <img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/c90143be-9068-47f7-8699-342e5f7164c1" />
 
 The names of the cities in the searchrd history are stored in a binary file so that can be stored in the computer memory permanently and the data will not lost if the computer is switched off.
-You can see integers before the searched cities. You can enter 
+You can see integers before the searched cities. You can enter the integer present before the name of the cities in order to get the current weather conditions of the city from the search history itself. For example we want to get the curent weather conditions of kolkata, we have to enter 3.
+
+<img width="1068" height="374" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/52b5d7df-f9ad-41de-a8d3-8a71118436f0" />
+
+Again by entering 'y' or 'Y' you can have the weather forecast of that day and upcoming two days. Else press enter key if you don't want to have the weather report .
+
+Now we are going to see the search histoey again.
+<img width="1060" height="677" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/745e5292-8a35-4818-9748-627fb8013f91" />
+You can see that KOLKATA is in the top having number 1 before it. This is because, from the search history we have searched kolkata , which is the last search we have done. The remaining cities in the search history can get a new position and accordingly a new number can present infront of them
+
+Now, if we don't want to search anything from our search history then we will enter 0. Again we will have our MAIN MENU.
+<img width="1076" height="455" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/411a1859-171a-4751-8323-c7ceef9de98c" />
+
+##DELETE SEARCH HISTORY
+Let's search the current weather conditions of few more cities in order to understand this option clearly.
+<img width="1062" height="659" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/cfff8ad9-e6fd-4d1d-937f-3d6a25d00a6d" />
+<img width="1054" height="495" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/e37a04c5-be02-4705-a464-023f999fcb44" />
+
+Now let's see the search history
+<img width="1077" height="307" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/1d2c6404-a754-482d-80ea-8a05e1b8cee0" />
+
+
+
+
+
+
+
  
  
   
